@@ -26,7 +26,7 @@ An agentic research tool that queries live Poshmark listings and web search to s
 
 ## Background
 
-5 years shipping production systems across billing platforms, customer portals, and payment integrations — most recently on both sides of a live migration from a 15-year-old Rails monolith to Go, PostgreSQL, and Next.js. Strong focus on production reliability: incident response, hotfixes, and debugging systems that can't go down.
+5 years shipping production systems across billing platforms, customer portals, and payment integrations, most recently on both sides of a live migration from a 15-year-old Rails monolith to Go, PostgreSQL, and Next.js. Strong focus on production reliability: incident response, hotfixes, and debugging systems that can't go down.
 
 Lately that's meant building AI agent workflows for incident response, PR review, and CI triage with guardrails, because an agent that bypasses branch protection is just a faster way to break things.
 
