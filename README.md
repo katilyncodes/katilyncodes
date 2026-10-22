@@ -17,7 +17,7 @@ Backend-leaning full-stack engineer building at the intersection of production r
 ### Travel Points Agent
 An AI agent that tracks an upcoming trip's cost in credit card points as well as dollars, so you can tell when points are the better deal and actually get to take the dream trip.
 
-### [Poshmark Trend Research Assistant + Content Pipeline](https://github.com/katilyncodes/posh-research-agent)
+### Poshmark Trend Research Assistant + Content Pipeline
 An agentic research tool that queries live Poshmark listings and web search to surface weekly demand signals and pricing recommendations for resale sellers. Extends into an automated Instagram content pipeline with a human-in-the-loop approval dashboard before publishing via the Meta Graph API.
 
 **Stack:** Python · FastAPI · LangChain · Anthropic Claude · Tavily · BeautifulSoup · APScheduler · SQLite · Meta Graph API · AWS
